@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.sign_text{
+    font-size: 30px;
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    margin-top: 30px;
+}
+.sign_box{
+    margin-top: 30px;
+    margin-left: 220px;
+    height: 700px;
+    width: 70%;
+    background-color: white;
+    display: flex;
+    border-radius: 10%;
+
+}
+.signup1{
+    border-radius: 10% 0% 0% 10%;
+}
+.signup_head{
+    color: black;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.sign_form{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.sinp{
+    width: 290px;
+    
+}
+.sinp2{
+    width: 290px;
+    height: 60px;
+}
+.si_sub{margin-left: 100px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid black;}
+
+
+.si_sub:hover{
+  background-color: black;
+  color:white;
+}

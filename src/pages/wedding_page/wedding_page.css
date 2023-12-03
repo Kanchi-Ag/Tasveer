@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.wed_head{
+    font-family: 'Cormorant Garamond', serif;
+    margin-top: 40px;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+.container_wed1{
+    margin-top: 60px;
+    gap: 10px;
+    display: flex;
+    margin-left: 60px;
+
+}
+.wed2{
+    width: 450px;
+    height: 550px;
+}
+.wed3{
+    width: 450px;
+    height: 550px;
+}
+.wed4{
+    width: 450px;
+    height: 550px;
+}
+
+.container_wed2{
+    margin-top: 60px;
+    gap: 10px;
+    display: flex;
+    margin-left: 60px;
+
+}
+.wed5{
+    width: 450px;
+    height: 450px;
+}
+.wed6{
+    width: 450px;
+    height: 450px;
+}
+.wed7{
+    width: 450px;
+    height: 450px;
+}
+
+.container_wed3{
+    margin-top: 60px;
+    gap: 10px;
+    display: flex;
+    margin-left: 60px;
+
+}
+.wed8{
+    width: 450px;
+    height: 550px;
+}
+.wed9{
+    width: 450px;
+    height: 550px;
+}
+.wed10{
+    width: 450px;
+    height: 550px;
+}
+
+.container_wed4{
+    margin-top: 60px;
+    gap: 10px;
+    display: flex;
+    margin-left: 60px;
+
+}
+.wed11{
+    width: 450px;
+    height: 550px;
+}
+.wed12{
+    width: 450px;
+    height: 550px;
+}
+.wed13{
+    width: 450px;
+    height: 550px;
+}

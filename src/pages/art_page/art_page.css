@@ -1,0 +1,71 @@
+.container_art1{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    gap: 10px;
+  }
+  .art_pic1{
+    width: 500px;
+    height: 550px;
+  }
+  .art_pic2{
+    width: 500px;
+    height: 550px;
+  }
+  .art_pic3{
+    width: 500px;
+    height: 550px;
+  }
+  
+  .container_art2{
+    display: flex;
+    margin-top: 50px;
+    gap: 10px;
+  }
+  .art_pic4{
+    width: 500px;
+    height: 500px;
+  }
+  .art_pic5{
+    width: 500px;
+    height: 500px;
+  }
+  .art_pic6{
+    width: 495px;
+    height: 500px;
+  }
+  
+  .container_art3{
+    display: flex;
+    margin-top: 50px;
+    gap: 10px;
+  }
+  .art_pic7{
+    width: 500px;
+    height: 500px;
+  }
+  .art_pic8{
+    width: 500px;
+    height: 500px;
+  }
+  .art_pic9{
+    width: 495px;
+    height: 500px;
+  }
+  .container_art4{
+    display: flex;
+    margin-top: 50px;
+    gap: 10px;
+  }
+  .art_pic10{
+    width: 500px;
+    height: 500px;
+  }
+  .art_pic11{
+    width: 500px;
+    height: 500px;
+  }
+  .art_pic12{
+    width: 495px;
+    height: 500px;
+  }

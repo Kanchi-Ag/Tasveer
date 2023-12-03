@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+.port_head{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    margin-top: 30px;
+}
+
+
+
+.container_pot1{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 70px;
+}
+.port1{
+    height: 550px;
+    width: 450px;
+}
+.port2{
+    height: 550px;
+    width: 450px;
+}
+.port3{
+    height: 550px;
+    width: 450px;
+}
+
+.container_pot2{
+    display: flex;
+    gap: 10px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.port4{
+    height: 550px;
+    width: 450px;
+}
+.port5{
+    height: 550px;
+    width: 450px;
+}
+.port6{
+    height: 550px;
+    width: 450px;
+}
+
+.container_pot3{
+    display: flex;
+    gap: 10px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.port7{
+    height: 550px;
+    width: 450px;
+}
+.port8{
+    height: 550px;
+    width: 450px;
+}
+.port9{
+    height: 550px;
+    width: 450px;
+}
+
+.container_pot4{
+    display: flex;
+    gap: 10px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.port10{
+    height: 550px;
+    width: 450px;
+}
+.port11{
+    height: 550px;
+    width: 450px;
+}
+.port12{
+    height: 550px;
+    width: 450px;
+}
+
+.container_pot5{
+    display: flex;
+    gap: 10px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.port13{
+    height: 550px;
+    width: 450px;
+}
+.port14{
+    height: 550px;
+    width: 450px;
+}
+.port15{
+    height: 550px;
+    width: 450px;
+}

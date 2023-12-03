@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.Service_Text1{
+    margin-top: 40px;
+    font-size: 60px;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    color: white;
+
+}
+.Service_Container1{
+    margin-top: 125px;
+}
+.photo1{
+    background-image: url(D:\Tasveer\tasveer\public\potrait2.jpg);
+    background-size: cover;
+    width: 550px;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: 70px;
+    position: relative;
+    border-radius: 20%;
+}
+.box_service{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    position:absolute;
+    left: 500px;
+    bottom:50px;
+}
+.box1_text1{
+    /* font-family: 'Cormorant Garamond', serif; */
+    /* font-family: 'Lora', serif; */
+    font-family: 'Dosis', sans-serif;
+    font-size:35px;
+    /* font-weight:400; */
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.line1{
+    width: 300px;
+    height: 1px;
+    margin-left:0px;
+    background-color: black;
+    margin-top: 30px;
+}
+.box1_text2{
+    /* font-family: 'Lora', serif; */
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.potrait_booking{
+   
+    
+    margin-left: 67px;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+}
+
+/* Family css starts */
+
+
+.Service_Container2{
+    margin-top: 125px;
+}
+.photo2{
+    background-image: url(D:\Tasveer\tasveer\public\family1.jpg);
+    background-size: cover;
+    width: 550px;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: 70px;
+    position: relative;
+    border-radius: 20%;
+}
+.box_service2{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    position:absolute;
+    left: 500px;
+    bottom:50px;
+}
+.box2_text1{
+    /* font-family: 'Cormorant Garamond', serif; */
+    /* font-family: 'Lora', serif; */
+    font-family: 'Dosis', sans-serif;
+    font-size:35px;
+    /* font-weight:400; */
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.line2{
+    width: 300px;
+    height: 1px;
+    margin-left:0px;
+    background-color: black;
+    margin-top: 30px;
+}
+.box2_text2{
+    /* font-family: 'Lora', serif; */
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.family_booking{
+   
+    
+    margin-left: 67px;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+}
+
+/* wedding css */
+
+.Service_Container3{
+    margin-top: 125px;
+}
+.photo3{
+    background-image: url(D:\Tasveer\tasveer\public\wedding1.jpg);
+    background-size: cover;
+    width: 550px;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: 70px;
+    position: relative;
+    border-radius: 20%;
+}
+.box_service3{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    position:absolute;
+    left: 500px;
+    bottom:50px;
+}
+.box3_text1{
+    /* font-family: 'Cormorant Garamond', serif; */
+    /* font-family: 'Lora', serif; */
+    font-family: 'Dosis', sans-serif;
+    font-size:35px;
+    /* font-weight:400; */
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.line3{
+    width: 300px;
+    height: 1px;
+    margin-left:0px;
+    background-color: black;
+    margin-top: 30px;
+}
+.box3_text2{
+    /* font-family: 'Lora', serif; */
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.wedding_booking{
+   
+    
+    margin-left: 67px;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+}
+
+/* commercial css */
+.Service_Container4{
+    margin-top: 125px;
+}
+.photo4{
+    background-image: url(D:\Tasveer\tasveer\public\commercial1.jpg);
+    background-size: cover;
+    width: 550px;
+    height: 450px;
+    margin-left: 300px;
+    margin-top: 70px;
+    position: relative;
+    border-radius: 20%;
+}
+.box_service4{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    position:absolute;
+    left: 500px;
+    bottom:50px;
+}
+.box4_text1{
+    /* font-family: 'Cormorant Garamond', serif; */
+    /* font-family: 'Lora', serif; */
+    font-family: 'Dosis', sans-serif;
+    font-size:35px;
+    /* font-weight:400; */
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.line4{
+    width: 300px;
+    height: 1px;
+    margin-left:0px;
+    background-color: black;
+    margin-top: 30px;
+}
+.box4_text2{
+    /* font-family: 'Lora', serif; */
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.commercial_booking{
+   
+    
+    margin-left: 67px;
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 17px;
+}

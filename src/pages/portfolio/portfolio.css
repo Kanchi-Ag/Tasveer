@@ -1,0 +1,290 @@
+.portfolio-page{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    margin-top: 40px;
+}
+.portfolio_image1{
+  margin-left: 400px;
+  margin-top: 60px;
+  width: 800px;
+  height: 600px;
+  
+}
+
+.image1{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: url("D:\Tasveer\tasveer\public\potrait2.jpg");
+  background-position: center;
+  background-size: cover;
+  
+} 
+.portfolio_image1:hover .image1,
+.portfolio_image1:focus .image1{
+  transform:scale(1.2);
+  transition: all .5s;
+}   
+.image1::before{
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: rgba(172, 182, 193, 0.75); */
+  background-color: rgba(0,0,0, 0.4);
+}
+.portfolio_image1:hover .image1:before,
+.portfolio_image1:focus .image1:before{
+  display: block;
+}
+span {
+  text-decoration: none;
+  color: white; 
+  font-family: sans-serif;
+  margin-left: 300px;
+  margin-top: 270px;
+  font-size: 40px;
+  position: absolute;
+  
+  
+  
+ }
+
+ .portfolio_image1:hover span,
+.portfolio_image1:focus span{
+  display: block;
+}
+/* FAMILY IMAGE CSS */
+
+.portfolio_image2{
+  margin-left: 400px;
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  
+}
+
+.image2{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: url("D:\Tasveer\tasveer\public\family1.jpg");
+  background-position: center;
+  background-size: cover;
+  
+  
+} 
+.portfolio_image2:hover .image2,
+.portfolio_image2:focus .image2{
+  transform:scale(1.2);
+  transition: all .5s;
+}   
+.image2::before{
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: rgba(172, 182, 193, 0.75); */
+  background-color: rgba(0,0,0, 0.4);
+}
+.portfolio_image2:hover .image2:before,
+.portfolio_image2:focus .image2:before{
+  display: block;
+}
+span {
+  text-decoration: none;
+  color: white; 
+  font-family: sans-serif;
+  margin-left: 300px;
+  margin-top: 270px;
+  font-size: 40px;
+  position: absolute;
+  
+  
+  
+ }
+
+ .portfolio_image2:hover span,
+.portfolio_image2:focus span{
+  display: block;
+}
+
+/* WEDDING CSS STARTS */
+.portfolio_image3{
+  margin-left: 400px;
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  
+}
+
+.image3{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: url("D:\Tasveer\tasveer\public\wedding1.jpg");
+  background-position: center;
+  background-size: cover;
+  
+  
+} 
+.portfolio_image3:hover .image3,
+.portfolio_image3:focus .image3{
+  transform:scale(1.2);
+  transition: all .5s;
+}   
+.image3::before{
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: rgba(172, 182, 193, 0.75); */
+  background-color: rgba(0,0,0, 0.4);
+}
+.portfolio_image3:hover .image3:before,
+.portfolio_image3:focus .image3:before{
+  display: block;
+}
+span {
+  text-decoration: none;
+  color: white; 
+  font-family: sans-serif;
+  margin-left: 300px;
+  margin-top: 270px;
+  font-size: 40px;
+  position: absolute;
+  
+  
+  
+ }
+
+ .portfolio_image3:hover span,
+.portfolio_image3:focus span{
+  display: block;
+}
+
+/* COMMERCIAL CSS STARTS */
+.portfolio_image4{
+  margin-left: 400px;
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  
+}
+
+.image4{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: url("D:\Tasveer\tasveer\public\commercial1.jpg");
+  background-position: center;
+  background-size: cover;
+  
+  
+} 
+.portfolio_image4:hover .image4,
+.portfolio_image4:focus .image4{
+  transform:scale(1.2);
+  transition: all .5s;
+}   
+.image4::before{
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: rgba(172, 182, 193, 0.75); */
+  background-color: rgba(0,0,0, 0.4);
+}
+.portfolio_image4:hover .image4:before,
+.portfolio_image4:focus .image4:before{
+  display: block;
+}
+span {
+  text-decoration: none;
+  color: white; 
+  font-family: sans-serif;
+  margin-left: 300px;
+  margin-top: 270px;
+  font-size: 40px;
+  position: absolute;
+  
+  
+  
+ }
+
+ .portfolio_image4:hover span,
+.portfolio_image4:focus span{
+  display: block;
+}
+
+/* Art page starts */
+
+.portfolio_image5{
+  margin-left: 400px;
+  margin-top: 100px;
+  width: 800px;
+  height: 600px;
+  
+}
+
+.image5{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: url("D:\Tasveer\tasveer\public\art0.jpg");
+  background-position: center;
+  background-size: cover;
+  
+  
+} 
+.portfolio_image5:hover .image5,
+.portfolio_image5:focus .image5{
+  transform:scale(1.2);
+  transition: all .5s;
+}   
+.image5::before{
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: rgba(172, 182, 193, 0.75); */
+  background-color: rgba(0,0,0, 0.4);
+}
+.portfolio_image5:hover .image5:before,
+.portfolio_image5:focus .image5:before{
+  display: block;
+}
+span {
+  text-decoration: none;
+  color: white; 
+  font-family: sans-serif;
+  margin-left: 250px;
+  margin-top: 270px;
+  font-size: 40px;
+  position: absolute;
+  
+  
+  
+ }
+
+ .portfolio_image5:hover span,
+.portfolio_image5:focus span{
+  display: block;
+}

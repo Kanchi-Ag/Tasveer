@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.cont_head{
+    color: white;
+    text-align: center;   
+    margin-top: 40px;
+    font-size: 40px;
+    font-family: 'Cormorant Garamond', serif;  
+}
+.contact_img{
+    height: 700px;
+    width: 500px;
+    border-radius: 10% 0% 0% 10%;
+}
+.cont_box{
+    display:flex;
+    width: 70%;
+    background-color: white;
+    height: 700px;
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 210px;
+    border-radius: 10%;
+}
+.contact_tex{
+    font-size: 30px ;
+    color:black;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 500px;
+}
+.flex_cont{
+    width: 900px;
+}
+.cont_line{
+    width: 90%;
+    margin-left: 0px;
+}
+.form_cont{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 120px;
+}
+.input_cont{
+    width: 300px;
+    height: 30px;
+    padding: 2px;
+    
+  }
+  .label_cont{
+    font-size: 15px;
+  }
+  .input_msg{
+    width: 300px;
+    height: 90px;
+    padding: 2px;
+    
+  }
+  #para{
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    text-align: center;
+    margin-right: 70px;
+  }
+ 
+  #btn_form{
+    width: 90px;
+    height: 40px;
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    background-color:white;
+    padding: 10px;
+    margin-left: 220px;
+    font-size: 15px;
+
+  }
+  #btn_form:hover{
+    color: white;
+    background-color: black;
+  }

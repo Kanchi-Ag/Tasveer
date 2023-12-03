@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.comm_head{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    margin-top: 30px;
+}
+.comm_cont1{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 70px;
+
+}
+.comm_img1{
+    height: 600px;
+    width: 450px;
+}
+.comm_img2{
+    height: 600px;
+    width: 450px;
+}
+.comm_img3{
+    height: 600px;
+    width: 450px;
+}
+
+.comm_cont2{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 70px;
+
+}
+.comm_img4{
+    height: 600px;
+    width: 450px;
+}
+.comm_img5{
+    height: 600px;
+    width: 450px;
+}
+.comm_img6{
+    height: 600px;
+    width: 450px;
+}
+.comm_cont3{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 70px;
+
+}
+.comm_img7{
+    height: 600px;
+    width: 450px;
+}
+.comm_img8{
+    height: 600px;
+    width: 450px;
+}
+.comm_img9{
+    height: 600px;
+    width: 450px;
+}
+
+.comm_cont4{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 70px;
+
+}
+.comm_img10{
+    height: 600px;
+    width: 450px;
+}
+.comm_img11{
+    height: 600px;
+    width: 450px;
+}
+.comm_img12{
+    height: 600px;
+    width: 450px;
+}
+
+.comm_cont5{
+    display: flex;
+    gap: 10px;
+    margin-top: 60px;
+    margin-left: 70px;
+
+}
+.comm_img13{
+    height: 600px;
+    width: 450px;
+}
+.comm_img14{
+    height: 600px;
+    width: 450px;
+}
+.comm_img15{
+    height: 600px;
+    width: 450px;
+}
